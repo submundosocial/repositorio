@@ -1,7 +1,7 @@
 +++
 date = "2015-06-20T14:02:37+02:00"
-title = "About"
-hidden = true
+title = "sobre o site"
+hidden = false
 menu = "main"
 +++
 
@@ -11,7 +11,6 @@ menu = "main"
 O submundo social pretende ser um repositório de textos e podcasts de (centro-)esquerda, teóricos ou opinativos.
 
 ## Integrantes
-
 **Leandro Augusto Zanini Matias**
 Graduado em economia na Universidade Presbiteriana Mackenzie e bacharelando em ciências sociais na UFPR (Universidade Federal do Paraná), marxista, interessado em temas ligados à circulação de ideias críticas e aos pensamentos sociais brasileiro e latino-americano.
 Lattes: [link](http://lattes.cnpq.br/9295577589741925)
@@ -26,9 +25,3 @@ Aqui serão publicados, sobretudo, os dois podcasts da casa, com periodicidade a
 
 1. economia heterodoxa;
 2. grupo de estudos marxista.
-
-***
-
-### Lorem ipsum dolor.
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ea dicta corporis ad inventore itaque impedit dolor atque amet exercitationem! Veniam qui voluptas maiores vel laudantium necessitatibus, velit ducimus! Iste hic facere, accusamus fugiat enim facilis.
